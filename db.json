@@ -2,11 +2,11 @@
   "employeeType": [
     {
       "id": 1,
-      "name": "Data Structures and Algorithms "
+      "type": "Mr."
     },
     {
-      "id": 2,
-      "name": "Premsons 608 Four Bearing Fidget Spinner"
+      "id": ,
+      "type": "Mrs."
     }]
     
 
